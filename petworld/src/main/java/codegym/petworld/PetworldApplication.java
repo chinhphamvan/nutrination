@@ -13,6 +13,45 @@ public class PetworldApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
+		System.out.println("Tran code");
 		System.out.println("Trung code");
 		System.out.println("Trung code");
 		System.out.println("Trung code");
@@ -29,7 +68,6 @@ public class PetworldApplication implements CommandLineRunner {
 		System.out.println("Trung code");
 		System.out.println("Trung code");
 		System.out.println("Trung code");
-
 
 	}
 }
