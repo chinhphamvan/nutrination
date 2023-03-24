@@ -52,7 +52,22 @@ public class PetworldApplication implements CommandLineRunner {
 		System.out.println("Tran code");
 		System.out.println("Tran code");
 		System.out.println("Tran code");
-		
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
+		System.out.println("Trung code");
 
 	}
 }
